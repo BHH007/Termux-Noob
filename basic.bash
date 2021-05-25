@@ -6,12 +6,16 @@ echo ""
 
 echo ""
 
-echo -e  $g "Please  Wait  A few Minutes...... "
+echo -e  $g "MADE BY BH HAXOR
+
+Please  Wait  A few Minutes...... "
 
 echo ""
 
+apt update
 apt upgrade
 
+pkg update
 pkg upgrade
 
 apt install wget
